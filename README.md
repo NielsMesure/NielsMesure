@@ -1,7 +1,3 @@
-![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
-
-<a href=#><img src="contributions.svg"></a>
-
 ### 🎮 Jouons à Pokémon ensemble~
 <img src="https://toy.cloudreve.org/image" width="300"/> 
 
@@ -13,3 +9,10 @@
 -----
 
 Cliquez sur les boutons ci-dessus pour envoyer une nouvelle commande à la manette, puis actualisez cette page pour afficher le nouvel écran de jeu.
+
+
+![](https://media0.giphy.com/media/3otPorWLQJq5GmHRtu/giphy.gif)
+
+<a href=#><img src="contributions.svg"></a>
+
+
